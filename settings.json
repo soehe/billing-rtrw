@@ -34,10 +34,10 @@
   "tripay_private_key": "",
   "tripay_merchant_code": "",
   "tripay_mode": "sandbox",
-  "tripay_enabled": false,
+  "tripay_enabled": true,
   "whatsapp_broadcast_delay": 60,
-  "login_otp_enabled": false,
-  "telegram_enabled": false,
+  "login_otp_enabled": true,
+  "telegram_enabled": true,
   "telegram_bot_token": "",
   "telegram_admin_id": "",
   "company_manager": "ALIJAYA NET",
@@ -61,5 +61,5 @@
   "attendance_radius": "100",
   "digiflazz_webhook_id": "",
   "qris_static_qr_url": "",
-  "auto_backup_enabled": false
+  "auto_backup_enabled": true
 }
